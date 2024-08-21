@@ -83,7 +83,7 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 ### Estatística
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=geisbelly&show_icons=true&theme=transparent&title_color=bb2503&text_color=bb2503&icon_color=bb2503&border_color=e4e2e2&bg_color=00000000&hide_border=true&border_radius=8&locale=pt-br&card_width=500&card_height=200" style="margin-right: 50px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=geisbelly&show_icons=true&theme=transparent&title_color=bb2503&text_color=bb2503&icon_color=bb2503&border_color=e4e2e2&bg_color=00000000&hide_border=true&border_radius=8&locale=pt-br&card_width=450&card_height=200" style="margin-right: 50px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisbelly&layout=compact&theme=radical&title_color=bb2503&text_color=bb2503&icon_color=dc4320&border_color=e4e2e2&bg_color=00000000&hide_border=true&locale=pt-br&card_width=350&card_height=200">
 </div>
 
